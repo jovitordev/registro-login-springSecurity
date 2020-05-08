@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: login-registrar-springboot-security
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrador
+Implementation-Vendor-Id: com.qintess.security
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/login-registrar-springboot-security
+Created-By: Maven Integration for Eclipse
+
